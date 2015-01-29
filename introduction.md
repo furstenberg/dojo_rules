@@ -5,3 +5,4 @@ Favourite path at Code School is Ruby of course.
 *Git
 *JavaScript
 *Ruby
+*Killing history using git rebase
